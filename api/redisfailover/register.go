@@ -1,5 +1,5 @@
 package redisfailover
 
 const (
-	GroupName = "databases.spotahome.com"
+	GroupName = "cloudlinux.com"
 )
